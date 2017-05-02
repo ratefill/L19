@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<SportItem>
+		<id>1</id>
+		<name>Коньки женские</name>
+		<price>4.00</price>
+		<countInStock>10</countInStock>
+		<countTotal>140</countTotal>
+	</SportItem>
+	<SportItem>
+		<id>2</id>
+		<name>Коньки детские</name>
+		<price>2.00</price>
+		<countInStock>30</countInStock>
+		<countTotal>30</countTotal>
+	</SportItem>
+	<SportItem>
+		<id>3</id>
+		<name>Коньки экстрим</name>
+		<price>5.00</price>
+		<countInStock>6</countInStock>
+		<countTotal>6</countTotal>
+	</SportItem>
+	<SportItem>
+		<id>4</id>
+		<name>Шлем тренировочный</name>
+		<price>1.75</price>
+		<countInStock>5</countInStock>
+		<countTotal>50</countTotal>
+	</SportItem>
+	<SportItem>
+		<id>5</id>
+		<name>Шлем детский</name>
+		<price>1.45</price>
+		<countInStock>8</countInStock>
+		<countTotal>8</countTotal>
+	</SportItem>
+	<SportItem>
+		<id>6</id>
+		<name>Защита для рук</name>
+		<price>0.50</price>
+		<countInStock>14</countInStock>
+		<countTotal>14</countTotal>
+	</SportItem>
+	<SportItem>
+		<id>7</id>
+		<name>Защита для ног</name>
+		<price>0.50</price>
+		<countInStock>15</countInStock>
+		<countTotal>14</countTotal>
+	</SportItem>
+	<SportItem>
+		<id>8</id>
+		<name>Клюшка хоккейная</name>
+		<price>1.25</price>
+		<countInStock>39</countInStock>
+		<countTotal>200</countTotal>
+	</SportItem>
+	<SportItem>
+		<id>9</id>
+		<name>Клюшка детская</name>
+		<price>1.00</price>
+		<countInStock>100</countInStock>
+		<countTotal>100</countTotal>
+	</SportItem>
+	<SportItem>
+		<id>10</id>
+		<name>Перчатки</name>
+		<price>0.50</price>
+		<countInStock>10</countInStock>
+		<countTotal>100</countTotal>
+	</SportItem>
+</items>
